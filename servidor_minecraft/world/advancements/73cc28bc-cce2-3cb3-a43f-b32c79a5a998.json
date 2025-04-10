@@ -343,7 +343,8 @@
       "minecraft:zombie": "2025-04-09 18:48:11 +0000",
       "minecraft:creeper": "2025-04-10 15:03:58 +0000",
       "minecraft:zombie_villager": "2025-04-10 16:23:00 +0000",
-      "minecraft:bogged": "2025-04-10 16:28:58 +0000"
+      "minecraft:bogged": "2025-04-10 16:28:58 +0000",
+      "minecraft:slime": "2025-04-10 16:58:47 +0000"
     },
     "done": false
   },
@@ -2213,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-04-10 16:26:57 +0000"
@@ -2375,6 +2382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-04-10 16:22:56 +0000"
@@ -2444,6 +2457,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:59:00 +0000"
     },
     "done": true
   },

@@ -493,7 +493,8 @@
       "minecraft:piglin_brute": "2025-04-10 02:45:44 +0000",
       "minecraft:zombie": "2025-04-09 19:12:44 +0000",
       "minecraft:creeper": "2025-04-09 19:12:49 +0000",
-      "minecraft:zombie_villager": "2025-04-09 21:53:24 +0000"
+      "minecraft:zombie_villager": "2025-04-09 21:53:24 +0000",
+      "minecraft:slime": "2025-04-10 16:58:36 +0000"
     },
     "done": false
   },
@@ -2185,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-04-10 16:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-04-10 16:47:59 +0000"
@@ -2248,6 +2255,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:58:38 +0000"
     },
     "done": true
   },
@@ -2341,6 +2354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-10 16:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-04-10 16:37:06 +0000"
@@ -2380,6 +2399,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:58:38 +0000"
     },
     "done": true
   },
@@ -2512,6 +2537,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 16:58:38 +0000"
     },
     "done": true
   },

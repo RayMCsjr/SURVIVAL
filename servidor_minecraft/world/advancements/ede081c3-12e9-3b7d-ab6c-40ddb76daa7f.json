@@ -726,9 +726,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-10 02:39:48 +0000",
+      "minecraft:silverfish": "2025-04-10 16:58:28 +0000",
       "minecraft:spider": "2025-04-09 18:58:46 +0000",
       "minecraft:zombie": "2025-04-09 18:58:07 +0000",
-      "minecraft:zombie_villager": "2025-04-09 18:58:42 +0000"
+      "minecraft:zombie_villager": "2025-04-09 18:58:42 +0000",
+      "minecraft:slime": "2025-04-10 16:58:57 +0000"
     },
     "done": false
   },
@@ -2256,6 +2258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-04-10 16:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
@@ -2283,6 +2291,18 @@
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-10 16:56:36 +0000"
     },
     "done": true
   },
@@ -2328,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-10 16:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
@@ -2340,9 +2366,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-10 17:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-04-10 16:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-10 16:57:26 +0000"
     },
     "done": true
   },
@@ -2355,6 +2393,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 17:00:15 +0000"
     },
     "done": true
   },
@@ -2406,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-10 17:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
@@ -2415,6 +2465,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 17:00:15 +0000"
     },
     "done": true
   },
