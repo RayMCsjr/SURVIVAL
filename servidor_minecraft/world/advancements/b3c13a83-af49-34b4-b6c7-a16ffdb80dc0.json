@@ -441,6 +441,7 @@
       "apple": "2025-04-10 15:52:16 +0000",
       "bread": "2025-04-10 04:01:14 +0000",
       "cooked_chicken": "2025-04-10 02:30:15 +0000",
+      "honey_bottle": "2025-04-10 17:11:55 +0000",
       "cooked_mutton": "2025-04-10 02:43:24 +0000",
       "cooked_beef": "2025-04-09 18:55:41 +0000"
     },
@@ -2216,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
@@ -2243,6 +2250,12 @@
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2291,6 +2304,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2354,6 +2373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-10 16:59:50 +0000"
@@ -2393,6 +2418,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-10 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },

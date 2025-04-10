@@ -730,6 +730,7 @@
       "minecraft:spider": "2025-04-09 18:58:46 +0000",
       "minecraft:zombie": "2025-04-09 18:58:07 +0000",
       "minecraft:zombie_villager": "2025-04-09 18:58:42 +0000",
+      "minecraft:bogged": "2025-04-10 17:07:45 +0000",
       "minecraft:slime": "2025-04-10 16:58:57 +0000"
     },
     "done": false
@@ -2270,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-10 16:23:50 +0000"
@@ -2285,6 +2292,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-10 16:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2309,6 +2322,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2345,6 +2364,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2393,6 +2418,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-10 16:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-04-10 17:08:39 +0000"
     },
     "done": true
   },
@@ -2483,6 +2514,12 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-10 17:11:28 +0000"
     },
     "done": true
   },
