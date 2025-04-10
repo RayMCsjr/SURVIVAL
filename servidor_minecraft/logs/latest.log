@@ -1,239 +1,48 @@
-[13:48:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:48:22] [ServerMain/INFO]: Loaded 1337 recipes
-[13:48:22] [ServerMain/INFO]: Loaded 1448 advancements
-[13:48:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[13:48:22] [Server thread/INFO]: Loading properties
-[13:48:22] [Server thread/INFO]: Default game type: SURVIVAL
-[13:48:22] [Server thread/INFO]: Generating keypair
-[13:48:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:48:22] [Server thread/INFO]: Using epoll channel type
-[13:48:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:48:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:48:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:48:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:48:22] [Server thread/INFO]: Preparing level "world"
-[13:48:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:48:26] [Server thread/INFO]: Time elapsed: 3448 ms
-[13:48:26] [Server thread/INFO]: Done (3.784s)! For help, type "help"
-[13:49:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:50:45] [Server thread/INFO]: edinson123pro[/100.76.109.16:59161] logged in with entity id 8 at (648.8918739418617, 72.0, 2200.53817672355)
-[13:50:45] [Server thread/INFO]: edinson123pro joined the game
-[14:12:08] [Server thread/INFO]: Slayer_np[/100.121.90.55:50257] logged in with entity id 3539 at (650.5, 72.0, 2198.5)
-[14:12:08] [Server thread/INFO]: Slayer_np joined the game
-[14:12:32] [Server thread/INFO]: [Not Secure] <Slayer_np> estoy desayunando
-[14:12:39] [Server thread/INFO]: [Not Secure] <edinson123pro> okok
-[14:14:14] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[14:14:14] [Server thread/INFO]: Slayer_np left the game
-[14:14:21] [Server thread/INFO]: Slayer_np[/100.121.90.55:50338] logged in with entity id 3888 at (650.5, 72.0, 2198.740930163977)
-[14:14:21] [Server thread/INFO]: Slayer_np joined the game
-[14:14:25] [Server thread/INFO]: DarkJunior[/100.71.138.83:49333] logged in with entity id 3914 at (653.3861160097138, 72.0, 2202.6689497647913)
-[14:14:25] [Server thread/INFO]: DarkJunior joined the game
-[14:18:02] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[14:18:02] [Server thread/INFO]: DarkJunior left the game
-[14:18:05] [Server thread/INFO]: edinson123pro was slain by Iron Golem
-[14:18:09] [Server thread/INFO]: DarkJunior[/100.71.138.83:49430] logged in with entity id 4551 at (642.3952433473243, 68.0, 2178.3533799516363)
-[14:18:09] [Server thread/INFO]: DarkJunior joined the game
-[14:21:06] [Server thread/INFO]: DarkJunior has made the advancement [What a Deal!]
-[14:28:15] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[14:28:15] [Server thread/INFO]: Slayer_np left the game
-[14:28:18] [Server thread/INFO]: Slayer_np[/100.121.90.55:51014] logged in with entity id 7256 at (634.942405172844, 65.0, 2187.731946215896)
-[14:28:18] [Server thread/INFO]: Slayer_np joined the game
-[14:30:11] [Server thread/INFO]: edinson123pro has made the advancement [What a Deal!]
-[14:30:28] [Server thread/INFO]: [Not Secure] <Slayer_np> sleep
-[14:30:30] [Server thread/INFO]: [Not Secure] <Slayer_np> nigga
-[14:31:57] [Server thread/INFO]: edinson123pro has made the advancement [Not Today, Thank You]
-[14:31:59] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[14:32:02] [Server thread/INFO]: Slayer_np has made the advancement [Enchanter]
-[14:32:18] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[14:33:03] [Server thread/INFO]: DarkJunior has made the advancement [Enchanter]
-[14:49:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=718, y=47, z=2241} jh{x=720, y=47, z=2241}
-[15:08:21] [Server thread/INFO]: DarkJunior has made the advancement [Cover Me with Diamonds]
-[15:10:13] [Server thread/INFO]: Slayer_np has made the advancement [Cover Me with Diamonds]
-[15:23:04] [Server thread/INFO]: [Not Secure] <edinson123pro> duerman
-[15:25:52] [Server thread/INFO]: edinson123pro has made the advancement [Suit Up]
-[15:28:56] [Server thread/WARN]: Slayer_np moved wrongly!
-[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
-[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
-[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
-[15:33:59] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[15:33:59] [Server thread/INFO]: Slayer_np left the game
-[15:34:03] [Server thread/INFO]: Slayer_np[/100.121.90.55:53916] logged in with entity id 28757 at (-145.30000001192093, 37.75008597134072, 295.62913152286)
-[15:34:03] [Server thread/INFO]: Slayer_np joined the game
-[15:34:04] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[15:34:09] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[15:34:09] [Server thread/INFO]: Slayer_np left the game
-[15:34:11] [Server thread/INFO]: Slayer_np[/100.121.90.55:53939] logged in with entity id 28884 at (-144.30000001192093, 37.0, 296.30000001192093)
-[15:34:11] [Server thread/INFO]: Slayer_np joined the game
-[15:34:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[15:35:02] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[15:35:02] [Server thread/INFO]: Slayer_np left the game
-[15:35:05] [Server thread/INFO]: Slayer_np[/100.121.90.55:53997] logged in with entity id 29288 at (-188.7454171617163, 28.410718776498424, 276.74478398521967)
-[15:35:05] [Server thread/INFO]: Slayer_np joined the game
-[15:35:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[15:35:12] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[15:35:12] [Server thread/INFO]: Slayer_np left the game
-[15:35:15] [Server thread/INFO]: Slayer_np[/100.121.90.55:54021] logged in with entity id 29408 at (-188.7454171617163, 32.895024046973646, 276.74478398521967)
-[15:35:15] [Server thread/INFO]: Slayer_np joined the game
-[15:35:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[15:35:21] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[15:35:21] [Server thread/INFO]: Slayer_np left the game
-[15:35:23] [Server thread/INFO]: Slayer_np[/100.121.90.55:54042] logged in with entity id 29538 at (-187.71751632194298, 36.0, 276.39175750275)
-[15:35:23] [Server thread/INFO]: Slayer_np joined the game
-[15:36:04] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[15:36:53] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[15:36:55] [Server thread/INFO]: Slayer_np has made the advancement [A Terrible Fortress]
-[15:38:21] [Server thread/INFO]: Villager cpj['Fletcher'/14, l='ServerLevel[world]', x=635.40, y=65.00, z=2190.52] died, message: 'Fletcher hit the ground too hard'
-[15:38:28] [Server thread/INFO]: Slayer_np has made the advancement [Into Fire]
-[15:38:47] [Server thread/INFO]: DarkJunior has made the advancement [Diamonds!]
-[15:45:21] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
-[15:45:25] [Server thread/INFO]: DarkJunior has made the advancement [Minecraft: Trial(s) Edition]
-[15:45:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[15:46:07] [Server thread/INFO]: [Not Secure] <DarkJunior> 734 -12 2238
-[15:46:23] [Server thread/INFO]: [Not Secure] <Slayer_np> 734 -12 2238
-[15:51:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=664, y=64, z=2115} jh{x=663, y=63, z=2115}
-[15:54:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[15:55:33] [Server thread/INFO]: [Slayer_np: Applied enchantment Sharpness II to Slayer_np's item]
-[15:56:38] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[16:19:53] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[16:19:53] [Server thread/INFO]: Slayer_np left the game
-[16:19:56] [Server thread/INFO]: Slayer_np[/100.121.90.55:56026] logged in with entity id 54518 at (614.7538424786442, 64.0, 2149.933218905978)
-[16:19:56] [Server thread/INFO]: Slayer_np joined the game
-[16:20:25] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[16:20:25] [Server thread/INFO]: Slayer_np left the game
-[16:20:27] [Server thread/INFO]: Slayer_np[/100.121.90.55:56061] logged in with entity id 54599 at (617.8012390706474, 63.9375, 2152.952721086019)
-[16:20:27] [Server thread/INFO]: Slayer_np joined the game
-[16:20:41] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[16:20:41] [Server thread/INFO]: DarkJunior left the game
-[16:20:41] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[16:20:41] [Server thread/INFO]: Slayer_np left the game
-[16:20:42] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[16:20:42] [Server thread/INFO]: edinson123pro left the game
-[16:20:46] [Server thread/INFO]: edinson123pro[/100.76.109.16:59650] logged in with entity id 54631 at (616.8846140717071, 66.0, 2155.910480751547)
-[16:20:46] [Server thread/INFO]: edinson123pro joined the game
-[16:20:47] [Server thread/INFO]: Slayer_np[/100.121.90.55:56101] logged in with entity id 54842 at (616.4970269377544, 66.0, 2153.5393976825917)
-[16:20:47] [Server thread/INFO]: Slayer_np joined the game
-[16:20:50] [Server thread/INFO]: DarkJunior[/100.71.138.83:51450] logged in with entity id 54886 at (613.598075285137, 66.0, 2153.218648988324)
-[16:20:50] [Server thread/INFO]: DarkJunior joined the game
-[16:22:39] [Server thread/INFO]: edinson123pro fell from a high place
-[16:22:46] [Server thread/INFO]: [Slayer_np: Set edinson123pro's game mode to Spectator Mode]
-[16:23:49] [Server thread/INFO]: [Slayer_np: Set edinson123pro's game mode to Survival Mode]
-[16:25:53] [Server thread/INFO]: edinson123pro has made the advancement [Minecraft: Trial(s) Edition]
-[16:25:57] [Server thread/INFO]: Slayer_np has made the advancement [Minecraft: Trial(s) Edition]
-[16:27:54] [Server thread/INFO]: DarkJunior has made the advancement [Under Lock and Key]
-[16:29:06] [Server thread/INFO]: edinson123pro was impaled on a stalagmite
-[16:31:51] [Server thread/INFO]: Slayer_np has made the advancement [Wax Off]
-[16:36:21] [Server thread/INFO]: DarkJunior has made the advancement [Take Aim]
-[16:37:06] [Server thread/INFO]: Slayer_np has made the advancement [Under Lock and Key]
-[16:38:23] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[16:38:29] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[16:38:48] [Server thread/INFO]: edinson123pro has made the advancement [Take Aim]
-[16:43:10] [Server thread/INFO]: edinson123pro was impaled on a stalagmite
-[16:47:40] [Server thread/INFO]: DarkJunior has reached the goal [Revaulting]
-[16:48:11] [Server thread/INFO]: Slayer_np has reached the goal [Revaulting]
-[16:49:29] [Server thread/INFO]: Slayer_np has made the advancement [Who Needs Rockets?]
-[16:50:56] [Server thread/INFO]: edinson123pro has reached the goal [Revaulting]
-[16:57:17] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[16:57:26] [Server thread/INFO]: edinson123pro has made the advancement [Cover Me with Diamonds]
-[16:57:27] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:00:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:00:16] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:01:53] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:01:55] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:03:35] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:03:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:05:28] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:05:35] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:10:13] [Server thread/WARN]: DarkJunior moved wrongly!
-[17:11:28] [Server thread/INFO]: edinson123pro has made the advancement [Ol' Betsy]
-[17:15:53] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:17:54] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:19:33] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:21:32] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:25:44] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:25:48] [Server thread/INFO]: edinson123pro has made the advancement [Under Lock and Key]
-[17:27:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:27:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:28:19] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:29:22] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:31:22] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:34:03] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:34:37] [Server thread/INFO]: [Slayer_np: Applied effect Trial Omen to edinson123pro]
-[17:35:30] [Server thread/INFO]: [Slayer_np: Applied effect Trial Omen to edinson123pro]
-[17:36:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=733, y=10, z=2297} jh{x=732, y=13, z=2296}
-[17:38:26] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
-[17:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=732, y=67, z=2297} jh{x=733, y=70, z=2297}
-[17:40:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:40:23] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:41:58] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:42:11] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:43:48] [Server thread/INFO]: edinson123pro has made the advancement [Voluntary Exile]
-[17:44:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:44:20] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:44:28] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:44:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:44:43] [Server thread/INFO]: DarkJunior has made the advancement [Voluntary Exile]
-[17:46:01] [Server thread/INFO]: Slayer_np has made the advancement [Best Friends Forever]
-[17:46:38] [Server thread/INFO]: edinson123pro has completed the challenge [Hero of the Village]
-[17:46:38] [Server thread/INFO]: Slayer_np has completed the challenge [Hero of the Village]
-[17:46:38] [Server thread/INFO]: DarkJunior has completed the challenge [Hero of the Village]
-[17:48:17] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:49:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:52:29] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[17:52:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[17:53:04] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved wrongly! 0.31666958659161537
-[17:53:04] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved wrongly! 0.6579767316243306
-[17:53:05] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved wrongly! 0.992402791636323
-[17:53:05] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved wrongly! 1.3354382951657484
-[17:57:34] [Server thread/INFO]: DarkJunior has made the advancement [Hot Stuff]
-[18:01:39] [Server thread/INFO]: Slayer_np has made the advancement [A Throwaway Joke]
-[18:05:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=520, y=70, z=2101} jh{x=599, y=59, z=2160}
-[18:08:10] [Server thread/INFO]: [Not Secure] <DarkJunior> 625 65 2157
-[18:09:07] [Server thread/INFO]: Slayer_np was smashed by DarkJunior
-[18:10:46] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to edinson123pro]
-[18:10:48] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to DarkJunior]
-[18:13:30] [Server thread/INFO]: Slayer_np was slain by DarkJunior
-[18:15:17] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to DarkJunior]
-[18:16:00] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved too quickly! 2.4513181274572844,1.0,9.837925458385143
-[18:16:00] [Server thread/WARN]: Horse (vehicle of Slayer_np) moved too quickly! 2.6619017687277164,1.0,10.397366336672803
-[18:16:15] [Server thread/INFO]: DarkJunior has made the advancement [Ol' Betsy]
-[18:18:24] [Server thread/INFO]: DarkJunior has made the advancement [Into Fire]
-[18:23:07] [Server thread/INFO]: Slayer_np has made the advancement [Fishy Business]
-[18:25:57] [Server thread/INFO]: Slayer_np lost connection: Disconnected
-[18:25:57] [Server thread/INFO]: Slayer_np left the game
-[18:26:52] [Server thread/INFO]: [Not Secure] <DarkJunior> bye bro vuelvo en un rato
-[18:26:56] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[18:26:56] [Server thread/INFO]: DarkJunior left the game
-[18:26:57] [Server thread/INFO]: [Not Secure] <edinson123pro> okok
-[19:41:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=609, y=65, z=2191} jh{x=609, y=64, z=2191}
-[20:13:55] [Server thread/INFO]: DarkJunior[/100.71.138.83:52829] logged in with entity id 107062 at (650.6999999880791, 69.0, 2208.699999988079)
-[20:13:55] [Server thread/INFO]: DarkJunior joined the game
-[20:16:56] [Server thread/INFO]: [Not Secure] <edinson123pro> dc?
-[20:17:02] [Server thread/INFO]: [Not Secure] <DarkJunior> no me abre
-[20:17:09] [Server thread/INFO]: [Not Secure] <DarkJunior> dice algo de latencia xd
-[20:17:10] [Server thread/INFO]: [Not Secure] <edinson123pro> ami tampoco xd
-[20:17:16] [Server thread/INFO]: [Not Secure] <edinson123pro> fallla mundial?
-[20:17:22] [Server thread/INFO]: [Not Secure] <DarkJunior> olvidalo acaba de cargar
-[20:17:25] [Server thread/INFO]: [Not Secure] <edinson123pro> xd
-[20:18:57] [Server thread/INFO]: Slayer_np[/100.121.90.55:51252] logged in with entity id 107933 at (594.6999999880791, 61.0, 2191.699999988079)
-[20:18:57] [Server thread/INFO]: Slayer_np joined the game
-[20:23:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[20:23:45] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[20:25:47] [Server thread/INFO]: [Not Secure] <Slayer_np> duerman
-[20:25:50] [Server thread/INFO]: [Not Secure] <Slayer_np> duerman
-[20:25:51] [Server thread/INFO]: [Not Secure] <Slayer_np> duerman
-[20:25:51] [Server thread/INFO]: [Not Secure] <Slayer_np> duerman
-[20:25:52] [Server thread/INFO]: [Not Secure] <Slayer_np> duerma
-[20:25:55] [Server thread/INFO]: [Not Secure] <Slayer_np> duerman
-[20:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=652, y=70, z=2202} jh{x=593, y=64, z=2178}
-[20:29:37] [Server thread/INFO]: Slayer_np has made the advancement [Who is Cutting Onions?]
-[20:30:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[20:30:22] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
-[20:30:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
-[20:30:41] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[20:49:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:49:57] [ServerMain/INFO]: Loaded 1337 recipes
+[20:49:57] [ServerMain/INFO]: Loaded 1448 advancements
+[20:49:57] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:49:57] [Server thread/INFO]: Loading properties
+[20:49:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:57] [Server thread/INFO]: Generating keypair
+[20:49:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:58] [Server thread/INFO]: Using epoll channel type
+[20:49:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:49:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:49:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:49:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:49:58] [Server thread/INFO]: Preparing level "world"
+[20:49:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:50:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:50:02] [Server thread/INFO]: Time elapsed: 3586 ms
+[20:50:02] [Server thread/INFO]: Done (3.922s)! For help, type "help"
+[20:50:11] [Server thread/INFO]: Slayer_np[/100.121.90.55:52773] logged in with entity id 8 at (-120.39981538508931, 48.0, 104.2468557114155)
+[20:50:12] [Server thread/INFO]: Slayer_np joined the game
+[20:50:29] [Server thread/INFO]: edinson123pro[/100.76.109.16:63303] logged in with entity id 141 at (652.1849931835129, 66.0, 2185.054102422821)
+[20:50:29] [Server thread/INFO]: edinson123pro joined the game
+[20:50:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[20:50:38] [Server thread/INFO]: DarkJunior[/100.71.138.83:54324] logged in with entity id 450 at (652.6573852794936, 65.9375, 2181.9688013371006)
+[20:50:38] [Server thread/INFO]: DarkJunior joined the game
+[20:50:47] [Server thread/INFO]: [Not Secure] <DarkJunior> acabo de dupear
+[20:50:49] [Server thread/INFO]: [Not Secure] <DarkJunior> xd
+[20:50:56] [Server thread/INFO]: [Not Secure] <Slayer_np> sisisaa
+[20:50:56] [Server thread/INFO]: [Not Secure] <DarkJunior> eran 3 flores
+[20:50:58] [Server thread/INFO]: [Not Secure] <Slayer_np> me regreso
+[20:50:59] [Server thread/INFO]: [Not Secure] <edinson123pro> jajaaja
+[20:51:01] [Server thread/INFO]: [Not Secure] <DarkJunior> ahora hay 4
+[20:51:02] [Server thread/INFO]: [Not Secure] <Slayer_np> y no me quito las cosas
+[20:51:07] [Server thread/INFO]: [Not Secure] <Slayer_np> eddy edinson esta compartiendo
+[20:51:23] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[20:56:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-295, y=73, z=216}
+[20:56:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=70, z=223}
+[20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
+[20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
+[20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
+[20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
