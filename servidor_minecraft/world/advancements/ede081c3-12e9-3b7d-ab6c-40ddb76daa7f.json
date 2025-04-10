@@ -738,6 +738,7 @@
       "minecraft:silverfish": "2025-04-10 16:58:28 +0000",
       "minecraft:spider": "2025-04-09 18:58:46 +0000",
       "minecraft:zombie": "2025-04-09 18:58:07 +0000",
+      "minecraft:wither": "2025-04-10 22:16:35 +0000",
       "minecraft:zombie_villager": "2025-04-09 18:58:42 +0000",
       "minecraft:bogged": "2025-04-10 17:07:45 +0000",
       "minecraft:slime": "2025-04-10 16:58:57 +0000"
@@ -2769,6 +2770,30 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-10 22:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-10 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-10 22:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-10 22:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-10 22:11:22 +0000"
     },
     "done": true
   },
