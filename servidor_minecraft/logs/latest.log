@@ -59,3 +59,41 @@
 [15:23:04] [Server thread/INFO]: [Not Secure] <edinson123pro> duerman
 [15:25:52] [Server thread/INFO]: edinson123pro has made the advancement [Suit Up]
 [15:28:56] [Server thread/WARN]: Slayer_np moved wrongly!
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=45, y=47, z=327} jh{x=-14, y=51, z=318}
+[15:33:59] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:33:59] [Server thread/INFO]: Slayer_np left the game
+[15:34:03] [Server thread/INFO]: Slayer_np[/100.121.90.55:53916] logged in with entity id 28757 at (-145.30000001192093, 37.75008597134072, 295.62913152286)
+[15:34:03] [Server thread/INFO]: Slayer_np joined the game
+[15:34:04] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[15:34:09] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:34:09] [Server thread/INFO]: Slayer_np left the game
+[15:34:11] [Server thread/INFO]: Slayer_np[/100.121.90.55:53939] logged in with entity id 28884 at (-144.30000001192093, 37.0, 296.30000001192093)
+[15:34:11] [Server thread/INFO]: Slayer_np joined the game
+[15:34:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[15:35:02] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:35:02] [Server thread/INFO]: Slayer_np left the game
+[15:35:05] [Server thread/INFO]: Slayer_np[/100.121.90.55:53997] logged in with entity id 29288 at (-188.7454171617163, 28.410718776498424, 276.74478398521967)
+[15:35:05] [Server thread/INFO]: Slayer_np joined the game
+[15:35:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[15:35:12] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:35:12] [Server thread/INFO]: Slayer_np left the game
+[15:35:15] [Server thread/INFO]: Slayer_np[/100.121.90.55:54021] logged in with entity id 29408 at (-188.7454171617163, 32.895024046973646, 276.74478398521967)
+[15:35:15] [Server thread/INFO]: Slayer_np joined the game
+[15:35:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[15:35:21] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:35:21] [Server thread/INFO]: Slayer_np left the game
+[15:35:23] [Server thread/INFO]: Slayer_np[/100.121.90.55:54042] logged in with entity id 29538 at (-187.71751632194298, 36.0, 276.39175750275)
+[15:35:23] [Server thread/INFO]: Slayer_np joined the game
+[15:36:04] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[15:36:53] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[15:36:55] [Server thread/INFO]: Slayer_np has made the advancement [A Terrible Fortress]
+[15:38:21] [Server thread/INFO]: Villager cpj['Fletcher'/14, l='ServerLevel[world]', x=635.40, y=65.00, z=2190.52] died, message: 'Fletcher hit the ground too hard'
+[15:38:28] [Server thread/INFO]: Slayer_np has made the advancement [Into Fire]
+[15:38:47] [Server thread/INFO]: DarkJunior has made the advancement [Diamonds!]
+[15:45:21] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[15:45:25] [Server thread/INFO]: DarkJunior has made the advancement [Minecraft: Trial(s) Edition]
+[15:45:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[15:46:07] [Server thread/INFO]: [Not Secure] <DarkJunior> 734 -12 2238
+[15:46:23] [Server thread/INFO]: [Not Secure] <Slayer_np> 734 -12 2238
