@@ -46,3 +46,19 @@
 [20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
 [20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
 [20:56:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-293, y=72, z=215} jh{x=-293, y=71, z=223}
+[21:00:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-297, y=70, z=219} jh{x=-297, y=68, z=219}
+[21:00:23] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[21:00:33] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:00:41] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:00:42] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:01:28] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:01:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:01:41] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:02:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:02:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:02:18] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:02:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=670, y=69, z=2179} jh{x=670, y=68, z=2179}
+[21:02:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=670, y=69, z=2179} jh{x=670, y=68, z=2179}
+[21:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=671, y=67, z=2182} jh{x=671, y=67, z=2181}
+[21:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=671, y=67, z=2182} jh{x=671, y=67, z=2181}
+[21:04:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=673, y=69, z=2172} jh{x=672, y=69, z=2173}
