@@ -1101,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-10 03:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-10 03:05:55 +0000"

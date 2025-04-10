@@ -1305,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-10 03:26:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2025-04-10 02:45:47 +0000"
