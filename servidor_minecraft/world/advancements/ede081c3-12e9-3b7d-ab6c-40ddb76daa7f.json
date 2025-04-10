@@ -1930,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-10 14:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-04-10 14:21:58 +0000"
@@ -1942,9 +1948,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-10 14:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-10 14:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/red_bundle": {
     "criteria": {
       "has_red_dye": "2025-04-10 14:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-10 14:57:58 +0000"
     },
     "done": true
   },
@@ -1954,9 +1978,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-10 14:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-10 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-10 14:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-10 14:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-10 14:59:18 +0000"
     },
     "done": true
   },
