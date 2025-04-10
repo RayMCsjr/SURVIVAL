@@ -2298,6 +2298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-10 16:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
@@ -2325,6 +2331,12 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-10 16:38:48 +0000"
     },
     "done": true
   },
@@ -2361,6 +2373,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-04-10 16:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-10 16:36:06 +0000"
     },
     "done": true
   },
