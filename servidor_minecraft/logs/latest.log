@@ -162,3 +162,11 @@
 [17:27:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
 [17:28:19] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
 [17:29:22] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
+[17:31:22] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
+[17:34:03] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
+[17:34:37] [Server thread/INFO]: [Slayer_np: Applied effect Trial Omen to edinson123pro]
+[17:35:30] [Server thread/INFO]: [Slayer_np: Applied effect Trial Omen to edinson123pro]
+[17:36:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=733, y=10, z=2297} jh{x=732, y=13, z=2296}
+[17:38:26] [Server thread/INFO]: [Slayer_np: Applied effect Bad Omen to edinson123pro]
+[17:38:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=732, y=67, z=2297} jh{x=733, y=70, z=2297}
+[17:40:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]

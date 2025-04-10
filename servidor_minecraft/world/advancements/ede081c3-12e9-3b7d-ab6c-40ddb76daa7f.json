@@ -2398,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-04-10 17:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-04-10 16:50:56 +0000"
@@ -2473,6 +2479,12 @@
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-04-10 16:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_heavy_core": "2025-04-10 17:34:43 +0000"
     },
     "done": true
   },
