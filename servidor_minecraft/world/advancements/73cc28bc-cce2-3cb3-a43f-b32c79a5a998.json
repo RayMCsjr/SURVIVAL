@@ -389,6 +389,7 @@
       "cooked_chicken": "2025-04-09 19:11:15 +0000",
       "suspicious_stew": "2025-04-10 20:32:45 +0000",
       "cooked_mutton": "2025-04-10 02:45:24 +0000",
+      "sweet_berries": "2025-04-10 22:50:18 +0000",
       "cooked_beef": "2025-04-09 18:49:26 +0000",
       "baked_potato": "2025-04-10 17:42:05 +0000",
       "golden_carrot": "2025-04-10 18:12:03 +0000"
@@ -2982,6 +2983,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-10 22:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-04-10 22:28:52 +0000"
@@ -2994,6 +3001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-10 22:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-04-10 22:25:46 +0000"
@@ -3003,6 +3016,18 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-04-10 22:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-10 22:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-10 22:57:29 +0000"
     },
     "done": true
   },
@@ -3021,6 +3046,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-10 22:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-10 22:57:30 +0000"
     },
     "done": true
   },
@@ -3051,6 +3082,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-04-10 22:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-10 22:57:30 +0000"
     },
     "done": true
   },
