@@ -53,3 +53,34 @@
 [02:40:09] [Server thread/INFO]: Slayer_np was slain by Zombie
 [02:40:40] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
 [02:40:50] [Server thread/INFO]: edinson123pro was shot by Skeleton
+[02:41:21] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:42:08] [Server thread/INFO]: Slayer_np has made the advancement [Suit Up]
+[02:42:37] [Server thread/INFO]: Slayer_np has made the advancement [Isn't It Iron Pick]
+[02:43:29] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:44:15] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:45:09] [Server thread/INFO]: Slayer_np has made the advancement [Those Were the Days]
+[02:45:40] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:45:47] [Server thread/INFO]: Slayer_np has made the advancement [War Pigs]
+[02:46:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:46:35] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:47:15] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:47:42] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:47:55] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:48:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:48:39] [Server thread/INFO]: Slayer_np has made the advancement [Hidden in the Depths]
+[02:49:04] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:50:23] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:50:41] [Server thread/INFO]: DarkJunior discovered the floor was lava
+[02:51:12] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:51:22] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[02:52:02] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[02:56:41] [Server thread/INFO]: [Not Secure] <Slayer_np> 200 68 222
+[02:57:12] [Server thread/INFO]: DarkJunior was slain by Zombie
+[03:06:13] [Server thread/INFO]: [Not Secure] <edinson123pro> 610 65 2185
+[03:07:20] [Server thread/INFO]: [Not Secure] <edinson123pro> 610 65 2185
+[03:07:57] [Server thread/INFO]: [Not Secure] <Slayer_np> 610 65 2185
+[03:19:58] [Server thread/INFO]: Villager cpj['Leatherworker'/39670, l='ServerLevel[world]', x=615.13, y=65.00, z=2183.28] died, message: 'Leatherworker was slain by Zombie'
+[03:20:06] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[03:20:06] [Server thread/INFO]: DarkJunior left the game
+[03:20:06] [Server thread/INFO]: [Slayer_np: Kicked DarkJunior: Kicked by an operator]
+[03:20:06] [Server thread/WARN]: handleDisconnection() called twice
