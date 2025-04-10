@@ -97,3 +97,7 @@
 [15:45:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
 [15:46:07] [Server thread/INFO]: [Not Secure] <DarkJunior> 734 -12 2238
 [15:46:23] [Server thread/INFO]: [Not Secure] <Slayer_np> 734 -12 2238
+[15:51:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=664, y=64, z=2115} jh{x=663, y=63, z=2115}
+[15:54:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[15:55:33] [Server thread/INFO]: [Slayer_np: Applied enchantment Sharpness II to Slayer_np's item]
+[15:56:38] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
