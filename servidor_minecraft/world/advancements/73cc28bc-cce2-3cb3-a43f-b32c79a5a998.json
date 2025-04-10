@@ -341,6 +341,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-10 17:40:48 +0000",
       "minecraft:skeleton": "2025-04-09 18:54:09 +0000",
+      "minecraft:phantom": "2025-04-10 22:41:41 +0000",
       "minecraft:ravager": "2025-04-10 17:46:34 +0000",
       "minecraft:bogged": "2025-04-10 16:28:58 +0000",
       "minecraft:breeze": "2025-04-10 16:26:04 +0000",
@@ -2975,9 +2976,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-04-10 22:45:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-04-10 22:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-10 22:44:18 +0000"
     },
     "done": true
   },
@@ -2999,6 +3012,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-10 22:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-10 22:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-10 22:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-10 22:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-10 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-10 22:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-04-10 22:15:04 +0000"
@@ -3014,6 +3063,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-10 22:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-04-10 22:45:33 +0000"
     },
     "done": true
   },
