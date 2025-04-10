@@ -27,3 +27,7 @@
 [05:39:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [05:42:41] [Server thread/INFO]: edinson123pro[/100.76.109.16:62173] logged in with entity id 8 at (647.5, 72.0, 2207.5)
 [05:42:41] [Server thread/INFO]: edinson123pro joined the game
+[06:15:58] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[06:15:58] [Server thread/INFO]: edinson123pro left the game
+[06:15:58] [Server thread/WARN]: handleDisconnection() called twice
+[06:16:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
