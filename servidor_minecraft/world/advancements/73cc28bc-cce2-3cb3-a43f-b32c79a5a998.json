@@ -336,13 +336,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-10 17:40:48 +0000",
       "minecraft:skeleton": "2025-04-09 18:54:09 +0000",
       "minecraft:breeze": "2025-04-10 16:26:04 +0000",
+      "minecraft:vindicator": "2025-04-10 17:44:40 +0000",
       "minecraft:silverfish": "2025-04-10 16:32:24 +0000",
       "minecraft:spider": "2025-04-10 15:59:29 +0000",
       "minecraft:zombie": "2025-04-09 18:48:11 +0000",
       "minecraft:creeper": "2025-04-10 15:03:58 +0000",
       "minecraft:zombie_villager": "2025-04-10 16:23:00 +0000",
+      "minecraft:ravager": "2025-04-10 17:46:34 +0000",
       "minecraft:bogged": "2025-04-10 16:28:58 +0000",
       "minecraft:slime": "2025-04-10 16:58:47 +0000"
     },
@@ -380,7 +383,8 @@
       "golden_apple": "2025-04-10 17:08:37 +0000",
       "cooked_chicken": "2025-04-09 19:11:15 +0000",
       "cooked_mutton": "2025-04-10 02:45:24 +0000",
-      "cooked_beef": "2025-04-09 18:49:26 +0000"
+      "cooked_beef": "2025-04-09 18:49:26 +0000",
+      "baked_potato": "2025-04-10 17:42:05 +0000"
     },
     "done": false
   },
@@ -2203,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-10 17:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-04-10 16:22:56 +0000"
@@ -2275,9 +2285,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
     },
     "done": true
   },
@@ -2320,6 +2342,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
     },
     "done": true
   },
@@ -2389,6 +2417,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-10 17:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-04-10 16:22:56 +0000"
@@ -2437,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-10 17:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:22:56 +0000"
@@ -2458,6 +2504,12 @@
   "minecraft:recipes/combat/mace": {
     "criteria": {
       "has_breeze_rod": "2025-04-10 16:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
     },
     "done": true
   },
@@ -2521,6 +2573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-04-10 17:08:41 +0000"
@@ -2548,6 +2606,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-10 17:36:14 +0000"
     },
     "done": true
   },
