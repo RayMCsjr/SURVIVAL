@@ -445,7 +445,8 @@
       "cooked_mutton": "2025-04-10 02:43:24 +0000",
       "sweet_berries": "2025-04-10 17:41:43 +0000",
       "cooked_beef": "2025-04-09 18:55:41 +0000",
-      "baked_potato": "2025-04-10 18:22:00 +0000"
+      "baked_potato": "2025-04-10 18:22:00 +0000",
+      "golden_carrot": "2025-04-10 23:01:55 +0000"
     },
     "done": false
   },
@@ -3289,6 +3290,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-10 22:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-10 23:02:24 +0000"
     },
     "done": true
   },
