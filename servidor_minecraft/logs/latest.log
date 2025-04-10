@@ -62,3 +62,31 @@
 [21:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=671, y=67, z=2182} jh{x=671, y=67, z=2181}
 [21:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=671, y=67, z=2182} jh{x=671, y=67, z=2181}
 [21:04:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=673, y=69, z=2172} jh{x=672, y=69, z=2173}
+[21:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=626, y=71, z=2229} jh{x=627, y=71, z=2229}
+[21:14:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=661, y=62, z=2238} jh{x=660, y=63, z=2238}
+[21:14:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=658, y=65, z=2239} jh{x=661, y=64, z=2238}
+[21:15:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=661, y=62, z=2236} jh{x=659, y=62, z=2236}
+[21:17:27] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! 10.001623982237561,0.0,-3.545851622020564
+[21:17:27] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! 11.44223979697449,0.0,-4.1088178835091185
+[21:17:27] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! 12.886391825321653,0.0,-4.684052991033013
+[21:17:27] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! 14.334242326454842,0.0,-5.270987860667674
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -10.137084353232922,0.0,4.100778408228052
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -10.137084353232922,0.0,4.100778408228052
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -10.137084353232922,0.0,4.100778408228052
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -10.137084353232922,0.0,4.100778408228052
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -8.958212516970661,0.0,5.068005334539066
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -8.958212516970661,0.0,5.068005334539066
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -8.958212516970661,0.0,5.068005334539066
+[21:17:28] [Server thread/WARN]: Spruce Boat (vehicle of DarkJunior) moved too quickly! -8.958212516970661,0.0,5.068005334539066
+[21:18:58] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[21:19:09] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:21:26] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:21:35] [Server thread/INFO]: Slayer_np has made the advancement [Spooky Scary Skeleton]
+[21:21:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:21:58] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:21:58] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:23:14] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:23:18] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:24:54] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:27:03] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:29:48] [Server thread/INFO]: DarkJunior has made the advancement [Eye Spy]
