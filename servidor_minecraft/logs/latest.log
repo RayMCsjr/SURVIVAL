@@ -211,3 +211,4 @@
 [18:26:56] [Server thread/INFO]: DarkJunior lost connection: Disconnected
 [18:26:56] [Server thread/INFO]: DarkJunior left the game
 [18:26:57] [Server thread/INFO]: [Not Secure] <edinson123pro> okok
+[19:41:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=609, y=65, z=2191} jh{x=609, y=64, z=2191}
