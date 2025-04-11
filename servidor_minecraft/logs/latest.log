@@ -33,3 +33,25 @@
 [00:31:54] [Server thread/INFO]: [Not Secure] <Slayer_np> @
 [00:32:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
 [00:32:44] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:34:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2210} jh{x=573, y=64, z=2207}
+[00:34:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2210} jh{x=573, y=64, z=2207}
+[00:34:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2210} jh{x=573, y=64, z=2207}
+[00:34:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2210} jh{x=573, y=64, z=2207}
+[00:35:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2186} jh{x=573, y=64, z=2187}
+[00:35:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=65, z=2186} jh{x=573, y=64, z=2187}
+[00:35:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=576, y=65, z=2186} jh{x=573, y=64, z=2187}
+[00:35:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=576, y=65, z=2186} jh{x=573, y=64, z=2187}
+[00:35:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=576, y=65, z=2186} jh{x=573, y=64, z=2187}
+[00:35:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=576, y=68, z=2193} jh{x=576, y=69, z=2192}
+[00:36:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=574, y=66, z=2192} jh{x=572, y=68, z=2196}
+[00:36:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=572, y=68, z=2197} jh{x=569, y=67, z=2196}
+[00:36:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=572, y=68, z=2197} jh{x=569, y=67, z=2196}
+[00:36:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=572, y=68, z=2198} jh{x=569, y=67, z=2196}
+[00:40:28] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[00:40:34] [Server thread/INFO]: [Slayer_np: Set own game mode to Adventure Mode]
+[00:40:39] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:40:43] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[00:40:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=570, y=63, z=2184} jh{x=568, y=63, z=2184}
+[00:40:49] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[00:41:07] [Server thread/INFO]: edinson123pro has made the advancement [Caves & Cliffs]
+[00:42:17] [Server thread/INFO]: Slayer_np fell from a high place
