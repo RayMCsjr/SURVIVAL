@@ -96,3 +96,12 @@
 [14:17:25] [Server thread/INFO]: [Not Secure] <DarkJunior> si
 [14:18:07] [Server thread/INFO]: Slayer_np lost connection: Disconnected
 [14:18:07] [Server thread/INFO]: Slayer_np left the game
+[14:44:16] [Server thread/INFO]: Slayer_np[/100.121.90.55:53718] logged in with entity id 8541 at (612.6422413938045, 65.0, 2192.922158626764)
+[14:44:16] [Server thread/INFO]: Slayer_np joined the game
+[14:47:27] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[14:47:27] [Server thread/INFO]: Slayer_np left the game
+[14:49:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=581, y=66, z=2225} jh{x=581, y=66, z=2224}
+[14:50:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=581, y=65, z=2225} jh{x=581, y=66, z=2223}
+[14:50:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=581, y=65, z=2225} jh{x=581, y=66, z=2223}
+[14:59:20] [Server thread/INFO]: Slayer_np[/100.121.90.55:54494] logged in with entity id 11461 at (584.857503501062, 58.931756874129576, 2237.6984316317526)
+[14:59:20] [Server thread/INFO]: Slayer_np joined the game

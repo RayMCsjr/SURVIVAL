@@ -3527,5 +3527,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-04-11 15:00:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
