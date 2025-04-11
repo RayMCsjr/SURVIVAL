@@ -121,3 +121,12 @@
 [15:21:55] [Server thread/INFO]: Slayer_np left the game
 [15:32:22] [Server thread/INFO]: edinson123pro[/100.76.109.16:54092] logged in with entity id 18879 at (763.9342431366467, -5.0, 2293.856827398813)
 [15:32:22] [Server thread/INFO]: edinson123pro joined the game
+[15:41:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=577, y=66, z=2169} jh{x=577, y=64, z=2173}
+[15:41:48] [Server thread/INFO]: Slayer_np[/100.121.90.55:56605] logged in with entity id 22078 at (579.6584191554243, 65.0, 2181.7590393357273)
+[15:41:48] [Server thread/INFO]: Slayer_np joined the game
+[15:41:56] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:41:56] [Server thread/INFO]: Slayer_np left the game
+[15:41:58] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[15:41:58] [Server thread/INFO]: edinson123pro left the game
+[15:42:09] [Server thread/INFO]: edinson123pro[/100.76.109.16:54133] logged in with entity id 22192 at (712.0310555812672, -7.0, 2323.7993849083787)
+[15:42:09] [Server thread/INFO]: edinson123pro joined the game
