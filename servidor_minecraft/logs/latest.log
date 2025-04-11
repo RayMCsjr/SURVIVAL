@@ -105,3 +105,12 @@
 [14:50:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=581, y=65, z=2225} jh{x=581, y=66, z=2223}
 [14:59:20] [Server thread/INFO]: Slayer_np[/100.121.90.55:54494] logged in with entity id 11461 at (584.857503501062, 58.931756874129576, 2237.6984316317526)
 [14:59:20] [Server thread/INFO]: Slayer_np joined the game
+[15:02:49] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:02:49] [Server thread/INFO]: Slayer_np left the game
+[15:06:35] [Server thread/INFO]: Slayer_np[/100.121.90.55:54873] logged in with entity id 13858 at (591.6562379621719, 64.0, 2212.2412973036485)
+[15:06:35] [Server thread/INFO]: Slayer_np joined the game
+[15:07:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[15:07:45] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[15:09:11] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[15:09:11] [Server thread/INFO]: Slayer_np left the game
+[15:11:42] [Server thread/INFO]: Villager cpj['Villager'/79, l='ServerLevel[world]', x=579.50, y=64.06, z=2183.49] died, message: 'Villager was slain by Zombie'
