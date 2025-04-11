@@ -303,3 +303,50 @@
 [17:14:07] [Server thread/INFO]: DarkJunior[/100.71.138.83:58975] logged in with entity id 78991 at (586.1115594766196, 64.0, 2182.7144760814244)
 [17:14:07] [Server thread/INFO]: DarkJunior joined the game
 [17:14:15] [Server thread/WARN]: Slayer_np moved wrongly!
+[17:15:55] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[17:15:57] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:16:02] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:16:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:16:51] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:16:54] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:18:05] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:18:07] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:19:17] [Server thread/WARN]: edinson123pro moved too quickly! -17.552705342177433,-0.6068507859253458,1.560870179691392
+[17:19:21] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:20:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:20:22] [Server thread/INFO]: [Not Secure] <Slayer_np> -7762508621439856648
+[17:20:56] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:21:02] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:21:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:21:33] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:21:35] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:21:56] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:22:08] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:23:22] [Server thread/INFO]: edinson123pro fell from a high place
+[17:24:01] [Server thread/INFO]: [Not Secure] <DarkJunior> 343 1977
+[17:24:38] [Server thread/INFO]: [Slayer_np: Set edinson123pro's game mode to Spectator Mode]
+[17:24:41] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[17:24:43] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to edinson123pro]
+[17:25:17] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:25:21] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to DarkJunior]
+[17:26:15] [Server thread/WARN]: Slayer_np moved wrongly!
+[17:26:24] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:26:27] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:26:28] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:26:29] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:26:54] [Server thread/INFO]: [Slayer_np: Summoned new Vindicator]
+[17:29:40] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[17:29:43] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to edinson123pro]
+[17:30:29] [Server thread/WARN]: edinson123pro moved too quickly! 4.902873890737283,0.0,11.5204925953758
+[17:31:23] [Server thread/INFO]: [Slayer_np: Teleported Slayer_np to DarkJunior]
+[17:31:26] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:32:56] [Server thread/INFO]: Villager cpj['Villager'/95670, l='ServerLevel[world]', x=576.57, y=73.94, z=2192.51] died, message: 'Villager was slain by DarkJunior'
+[17:33:03] [Server thread/INFO]: Villager cpj['Villager'/94961, l='ServerLevel[world]', x=576.85, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[17:33:04] [Server thread/INFO]: Villager cpj['Villager'/94962, l='ServerLevel[world]', x=577.08, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[17:33:11] [Server thread/INFO]: Villager cpj['Villager'/95699, l='ServerLevel[world]', x=577.48, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[17:33:12] [Server thread/INFO]: Villager cpj['Villager'/95602, l='ServerLevel[world]', x=578.33, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[17:33:17] [Server thread/INFO]: Villager cpj['Villager'/95679, l='ServerLevel[world]', x=577.23, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[17:33:18] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[17:33:18] [Server thread/INFO]: Slayer_np left the game
+[17:33:47] [Server thread/INFO]: Slayer_np[/100.121.90.55:61776] logged in with entity id 107658 at (601.1344494641173, 65.0, 2205.763218457671)
+[17:33:48] [Server thread/INFO]: Slayer_np joined the game

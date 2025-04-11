@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-04-10 02:56:15 +0000",
       "minecraft:flower_forest": "2025-04-10 18:08:36 +0000",
       "minecraft:beach": "2025-04-09 18:44:38 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-11 17:21:48 +0000",
       "minecraft:forest": "2025-04-10 02:42:50 +0000",
       "minecraft:taiga": "2025-04-10 02:51:52 +0000",
       "minecraft:river": "2025-04-10 02:41:18 +0000",
@@ -19,9 +20,13 @@
       "minecraft:dripstone_caves": "2025-04-10 23:33:27 +0000",
       "minecraft:frozen_ocean": "2025-04-10 02:53:42 +0000",
       "minecraft:frozen_river": "2025-04-09 19:20:29 +0000",
+      "minecraft:ocean": "2025-04-11 17:20:42 +0000",
+      "minecraft:swamp": "2025-04-11 17:19:21 +0000",
       "minecraft:meadow": "2025-04-10 03:03:01 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-11 17:19:57 +0000",
       "minecraft:windswept_hills": "2025-04-10 02:30:49 +0000",
       "minecraft:snowy_beach": "2025-04-09 19:20:04 +0000",
+      "minecraft:windswept_savanna": "2025-04-11 17:20:09 +0000",
       "minecraft:plains": "2025-04-09 18:44:31 +0000"
     },
     "done": false
@@ -3404,6 +3409,42 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-04-11 16:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-11 17:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-11 17:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-11 17:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-04-11 17:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-04-11 17:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-11 17:17:58 +0000"
     },
     "done": true
   },
