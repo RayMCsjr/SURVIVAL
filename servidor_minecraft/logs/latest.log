@@ -261,3 +261,35 @@
 [16:53:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=466, y=64, z=2776} jh{x=467, y=63, z=2775}
 [16:53:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=466, y=64, z=2776} jh{x=467, y=63, z=2775}
 [16:53:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=472, y=64, z=2783} jh{x=472, y=63, z=2782}
+[16:54:32] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:54:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=459, y=65, z=2758} jh{x=459, y=64, z=2760}
+[16:54:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=459, y=65, z=2758} jh{x=460, y=65, z=2759}
+[16:54:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=459, y=65, z=2758} jh{x=460, y=65, z=2759}
+[16:54:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=461, y=67, z=2761} jh{x=461, y=66, z=2759}
+[16:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=461, y=67, z=2761} jh{x=461, y=65, z=2761}
+[16:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=461, y=67, z=2761} jh{x=461, y=65, z=2761}
+[16:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=461, y=67, z=2761} jh{x=461, y=65, z=2761}
+[16:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=461, y=67, z=2761} jh{x=461, y=65, z=2761}
+[16:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=462, y=67, z=2762} jh{x=462, y=65, z=2762}
+[16:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=465, y=67, z=2764} jh{x=465, y=66, z=2763}
+[16:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=465, y=67, z=2764} jh{x=465, y=66, z=2763}
+[16:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=465, y=67, z=2764} jh{x=465, y=66, z=2763}
+[16:55:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=470, y=68, z=2770} jh{x=471, y=67, z=2768}
+[16:55:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=470, y=68, z=2770} jh{x=471, y=67, z=2768}
+[16:59:10] [Server thread/WARN]: Slayer_np moved wrongly!
+[16:59:23] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[16:59:29] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[16:59:36] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[17:00:34] [Server thread/INFO]: Villager cpj['Villager'/53135, l='ServerLevel[world]', x=579.50, y=64.06, z=2183.49] died, message: 'Villager was shot by Slayer_np'
+[17:00:39] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[17:00:39] [Server thread/INFO]: edinson123pro left the game
+[17:00:43] [Server thread/INFO]: edinson123pro[/100.76.109.16:54326] logged in with entity id 66584 at (578.1135333595365, 64.0, 2183.865422145436)
+[17:00:43] [Server thread/INFO]: edinson123pro joined the game
+[17:02:01] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:02:06] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:02:17] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:03:10] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:03:16] [Server thread/INFO]: Villager cpj['Villager'/63272, l='ServerLevel[world]', x=598.39, y=62.49, z=2162.58] died, message: 'Villager tried to swim in lava'
+[17:03:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:03:32] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]

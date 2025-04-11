@@ -3335,6 +3335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-11 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-11 16:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 16:48:41 +0000"
@@ -3353,21 +3365,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-04-11 16:48:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-04-11 16:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-11 16:48:34 +0000"
     },
     "done": true
   },
@@ -3398,6 +3398,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-04-11 16:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-11 16:56:31 +0000"
     },
     "done": true
   },
