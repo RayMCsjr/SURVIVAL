@@ -736,16 +736,17 @@
     "criteria": {
       "minecraft:pillager": "2025-04-10 17:40:45 +0000",
       "minecraft:skeleton": "2025-04-10 02:39:48 +0000",
+      "minecraft:bogged": "2025-04-10 17:07:45 +0000",
+      "minecraft:shulker": "2025-04-10 23:48:36 +0000",
       "minecraft:vindicator": "2025-04-10 17:43:48 +0000",
       "minecraft:silverfish": "2025-04-10 16:58:28 +0000",
+      "minecraft:enderman": "2025-04-10 23:58:48 +0000",
       "minecraft:endermite": "2025-04-10 23:49:47 +0000",
       "minecraft:spider": "2025-04-09 18:58:46 +0000",
       "minecraft:zombie": "2025-04-09 18:58:07 +0000",
       "minecraft:wither": "2025-04-10 22:16:35 +0000",
       "minecraft:zombie_villager": "2025-04-09 18:58:42 +0000",
-      "minecraft:bogged": "2025-04-10 17:07:45 +0000",
-      "minecraft:slime": "2025-04-10 16:58:57 +0000",
-      "minecraft:shulker": "2025-04-10 23:48:36 +0000"
+      "minecraft:slime": "2025-04-10 16:58:57 +0000"
     },
     "done": false
   },
@@ -2897,9 +2898,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-04-10 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
     },
     "done": true
   },
@@ -2909,9 +2946,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-04-10 23:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-10 23:54:12 +0000"
     },
     "done": true
   },
@@ -2927,6 +2988,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-10 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-10 23:46:26 +0000"
@@ -2936,6 +3039,18 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-10 23:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-10 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-10 23:59:30 +0000"
     },
     "done": true
   },
