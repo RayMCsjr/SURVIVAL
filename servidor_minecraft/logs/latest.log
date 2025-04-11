@@ -98,3 +98,6 @@
 [01:46:09] [Server thread/INFO]: edinson123pro lost connection: Disconnected
 [01:46:09] [Server thread/INFO]: edinson123pro left the game
 [02:03:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=575, y=75, z=2201} jh{x=582, y=76, z=2199}
+[02:09:08] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[02:09:08] [Server thread/INFO]: DarkJunior left the game
+[02:10:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
