@@ -347,6 +347,7 @@
       "minecraft:pillager": "2025-04-10 17:40:48 +0000",
       "minecraft:skeleton": "2025-04-09 18:54:09 +0000",
       "minecraft:phantom": "2025-04-10 22:41:41 +0000",
+      "minecraft:zombified_piglin": "2025-04-11 16:27:58 +0000",
       "minecraft:witch": "2025-04-11 16:15:38 +0000",
       "minecraft:ravager": "2025-04-10 17:46:34 +0000",
       "minecraft:bogged": "2025-04-10 16:28:58 +0000",
@@ -402,7 +403,8 @@
       "baked_potato": "2025-04-10 17:42:05 +0000",
       "golden_carrot": "2025-04-10 18:12:03 +0000",
       "cooked_chicken": "2025-04-09 19:11:15 +0000",
-      "potato": "2025-04-11 01:49:31 +0000"
+      "potato": "2025-04-11 01:49:31 +0000",
+      "cooked_cod": "2025-04-11 16:26:25 +0000"
     },
     "done": false
   },
