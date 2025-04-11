@@ -448,6 +448,7 @@
       "cooked_porkchop": "2025-04-09 19:05:43 +0000",
       "apple": "2025-04-10 15:52:16 +0000",
       "bread": "2025-04-10 04:01:14 +0000",
+      "golden_apple": "2025-04-11 00:53:27 +0000",
       "cooked_chicken": "2025-04-10 02:30:15 +0000",
       "honey_bottle": "2025-04-10 17:11:55 +0000",
       "cooked_mutton": "2025-04-10 02:43:24 +0000",
@@ -3303,6 +3304,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2025-04-11 00:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-10 23:57:49 +0000"
@@ -3324,6 +3331,12 @@
   "minecraft:recipes/decorations/cyan_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-10 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-11 00:53:38 +0000"
     },
     "done": true
   },
@@ -3618,6 +3631,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-10 22:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-11 00:53:38 +0000"
     },
     "done": true
   },
