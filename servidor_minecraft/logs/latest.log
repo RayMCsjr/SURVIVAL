@@ -293,3 +293,13 @@
 [17:03:16] [Server thread/INFO]: Villager cpj['Villager'/63272, l='ServerLevel[world]', x=598.39, y=62.49, z=2162.58] died, message: 'Villager tried to swim in lava'
 [17:03:19] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
 [17:03:32] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:05:18] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:05:36] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:09:35] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[17:09:38] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[17:13:34] [Server thread/INFO]: DarkJunior lost connection: Timed out
+[17:13:34] [Server thread/INFO]: DarkJunior left the game
+[17:13:34] [Server thread/WARN]: handleDisconnection() called twice
+[17:14:07] [Server thread/INFO]: DarkJunior[/100.71.138.83:58975] logged in with entity id 78991 at (586.1115594766196, 64.0, 2182.7144760814244)
+[17:14:07] [Server thread/INFO]: DarkJunior joined the game
+[17:14:15] [Server thread/WARN]: Slayer_np moved wrongly!
