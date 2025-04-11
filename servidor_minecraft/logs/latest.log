@@ -89,3 +89,9 @@
 [01:00:24] [Server thread/INFO]: edinson123pro[/100.76.109.16:64364] logged in with entity id 96667 at (622.0207549598657, 65.0, 2194.779098480419)
 [01:00:24] [Server thread/INFO]: edinson123pro joined the game
 [01:09:34] [Server thread/INFO]: DarkJunior has made the advancement [The Parrots and the Bats]
+[01:22:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=624, y=62, z=2178} jh{x=625, y=62, z=2178}
+[01:22:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=624, y=61, z=2178} jh{x=625, y=62, z=2178}
+[01:30:16] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[01:30:16] [Server thread/INFO]: edinson123pro left the game
+[01:30:45] [Server thread/INFO]: edinson123pro[/100.76.109.16:64489] logged in with entity id 105690 at (476.36933065003893, 63.0, 2307.5142036699453)
+[01:30:45] [Server thread/INFO]: edinson123pro joined the game
