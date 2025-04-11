@@ -3686,9 +3686,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_ink_sac": "2025-04-11 16:56:30 +0000"
+      "has_warped_fungus": "2025-04-11 16:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-11 16:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-11 16:42:10 +0000"
     },
     "done": true
   },
@@ -3710,21 +3722,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-04-11 16:42:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-04-11 16:42:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-11 16:42:10 +0000"
     },
     "done": true
   },
@@ -3752,15 +3752,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-04-11 16:37:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-04-11 16:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-11 16:56:30 +0000"
     },
     "done": true
   },
