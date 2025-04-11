@@ -3129,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2025-04-11 01:09:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-10 22:57:29 +0000"
@@ -3372,6 +3378,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-10 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-11 01:09:34 +0000"
     },
     "done": true
   },
