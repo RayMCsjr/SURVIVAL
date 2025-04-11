@@ -736,6 +736,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-10 17:40:45 +0000",
       "minecraft:skeleton": "2025-04-10 02:39:48 +0000",
+      "minecraft:witch": "2025-04-11 16:15:40 +0000",
       "minecraft:bogged": "2025-04-10 17:07:45 +0000",
       "minecraft:shulker": "2025-04-10 23:48:36 +0000",
       "minecraft:cave_spider": "2025-04-11 15:45:26 +0000",
@@ -3300,6 +3301,36 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-11 05:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-11 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-11 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-11 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-11 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-11 16:02:54 +0000"
     },
     "done": true
   },

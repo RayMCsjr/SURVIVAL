@@ -143,3 +143,51 @@
 [16:01:51] [Server thread/INFO]: [Not Secure] <Slayer_np> edduy
 [16:02:17] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
 [16:02:41] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:03:40] [Server thread/WARN]: Slayer_np moved wrongly!
+[16:03:47] [Server thread/WARN]: Slayer_np moved wrongly!
+[16:03:56] [Server thread/INFO]: Slayer_np lost connection: Disconnected
+[16:03:56] [Server thread/INFO]: Slayer_np left the game
+[16:08:05] [Server thread/WARN]: DarkJunior moved too quickly! -6.457435710022821,-0.8878188861886542,17.011454599206445
+[16:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-300, y=62, z=3861} jh{x=-299, y=60, z=3861}
+[16:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-300, y=62, z=3861} jh{x=-299, y=60, z=3861}
+[16:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-300, y=62, z=3861} jh{x=-299, y=60, z=3861}
+[16:10:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-301, y=62, z=3858} jh{x=-300, y=61, z=3859}
+[16:10:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-301, y=62, z=3858} jh{x=-300, y=61, z=3859}
+[16:10:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-300, y=62, z=3857} jh{x=-300, y=61, z=3859}
+[16:11:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-152, y=59, z=3718} jh{x=-152, y=57, z=3718}
+[16:12:22] [Server thread/WARN]: DarkJunior moved too quickly! 8.05085497089101,9.212600303531815,-13.63169115744904
+[16:12:44] [Server thread/INFO]: Slayer_np[/100.121.90.55:58130] logged in with entity id 37274 at (567.0186788975469, 67.33477852950492, 2189.6787001646726)
+[16:12:44] [Server thread/INFO]: Slayer_np joined the game
+[16:13:26] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:13:31] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:14:00] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:14:05] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:14:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=63, z=2335} jh{x=400, y=63, z=2336}
+[16:14:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=63, z=2335} jh{x=400, y=63, z=2336}
+[16:14:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=63, z=2335} jh{x=400, y=63, z=2336}
+[16:14:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=63, z=2335} jh{x=400, y=63, z=2336}
+[16:14:32] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:14:42] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:14:47] [Server thread/WARN]: Slayer_np moved wrongly!
+[16:15:27] [Server thread/INFO]: Villager cpj['Cleric'/36, l='ServerLevel[world]', x=618.71, y=65.00, z=2199.54] was struck by lightning bwf['Lightning Bolt'/39582, l='ServerLevel[world]', x=619.50, y=65.00, z=2198.50].
+[16:15:27] [Server thread/INFO]: Villager cpj['Weaponsmith'/14, l='ServerLevel[world]', x=618.76, y=65.00, z=2198.24] was struck by lightning bwf['Lightning Bolt'/39582, l='ServerLevel[world]', x=619.50, y=65.00, z=2198.50].
+[16:15:27] [Server thread/INFO]: Villager cpj['Toolsmith'/32, l='ServerLevel[world]', x=619.76, y=65.00, z=2198.27] was struck by lightning bwf['Lightning Bolt'/39582, l='ServerLevel[world]', x=619.50, y=65.00, z=2198.50].
+[16:15:30] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:15:48] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:15:53] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[16:15:53] [Server thread/INFO]: edinson123pro left the game
+[16:15:55] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[16:16:08] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[16:16:08] [Server thread/INFO]: DarkJunior left the game
+[16:16:10] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[16:16:11] [Server thread/INFO]: [Slayer_np: Summoned new Villager]
+[16:16:19] [Server thread/INFO]: DarkJunior[/100.71.138.83:57237] logged in with entity id 39830 at (583.5, 64.0, 2177.5)
+[16:16:19] [Server thread/INFO]: DarkJunior joined the game
+[16:16:31] [Server thread/INFO]: edinson123pro[/100.76.109.16:54234] logged in with entity id 39975 at (622.2334687626827, 65.0, 2182.949839065557)
+[16:16:31] [Server thread/INFO]: edinson123pro joined the game
+[16:16:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[16:16:42] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[16:19:52] [Server thread/INFO]: Villager cpj['Villager'/78, l='ServerLevel[world]', x=577.36, y=73.94, z=2192.30] died, message: 'Villager was slain by DarkJunior'
+[16:19:53] [Server thread/WARN]: Slayer_np moved wrongly!
+[16:23:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=641, y=-49, z=2270} jh{x=640, y=-50, z=2271}
+[16:23:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=641, y=-49, z=2271} jh{x=640, y=-50, z=2271}
